@@ -12,12 +12,12 @@
   --hue: 120;
   --primary-color: hsl(var(--hue), 92%, 43%);
   --primary-hover: hsl(var(--hue), 92%, 33%);
-  --secundary-color: hsl(287, 26%, 79%); 
-  --third-color: hsla(0, 0%, 100%, 0.1);
-  --bg-color: hsla(281, 76%, 31%, 0.932); 
+  --secundary-color: hsl(0, 0%, 0%); 
+  --third-color: hsla(123, 67%, 59%, 0.1);
+  --bg-color: hsla(0, 0%, 0%); 
 
-  --headline: hsl(291, 96%, 20%);
-  --paragraph: rgb(0, 0, 0);
+  --headline: hsl(339, 95%, 50%);
+  --paragraph: rgb(250, 245, 245);
   --paragraph-2: hsl(calc(var(--hue) + 10), 74%, 97%);
 
   font-size: 62.5%;
